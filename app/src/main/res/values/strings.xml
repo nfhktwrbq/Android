@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Meteo Station</string>
+    <string name="action_connect">Connect</string>
+    <string name="PD">Paired devices:</string>
+    <string name="not_paired">Not paired devices</string>
+    <string name="not_connected">Not connected</string>
+    <string name="bt_not_enabled_leaving">BT not enabled. Leaving</string>
+    <string name="sync_successful">Synchronization successful</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_demo">Demo</string>
+    <string name="disc">Disconnected</string>
+    <string name="pressure">Pressure:</string>
+    <string name="time">Time</string>
+    <string name="get_data">Get Data</string>
+    <string name="mode">Mode</string>
+    <string name="synchronize">Synchronize</string>
+    <string name="temp_in">Inside:</string>
+    <string name="temp_out">Outside:</string>
+    <string name="hum_in">Humidity:</string>
+    <string name="mm">mm</string>
+    <string name="connected_to">Connected to</string>
+    <string name="mode1">Mode 1</string>
+    <string name="mode2">Mode 1</string>
+    <string name="mode3">Mode 1</string>
+    <string name="mode4">Mode 1</string>
+    <string name="BTNA">Bluetooth is not available</string>
+    <string name="unable_to_connect_device">Unable to connect device</string>
+    <string name="device_connection_was_lost">Device connection was lost</string>
+    <string name="setting">Setting</string>
+    <string name="brightness">Brightness</string>
+    <string name="color">Color of DemoText</string>
+    <string-array name="screen_array">
+        <item>Screen 1</item>
+        <item>Screen 2</item>
+        <item>Screen 3</item>
+    </string-array>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+</resources>

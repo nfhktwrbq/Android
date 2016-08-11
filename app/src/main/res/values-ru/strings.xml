@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Метеостанция</string>
+    <string name="action_connect">Соединение</string>
+    <string name="PD">Подключенные устройства:</string>
+    <string name="not_paired">Нет подключенных устройств</string>
+    <string name="not_connected">Нет соединения</string>
+    <string name="bt_not_enabled_leaving">БТ не включен. Отмена</string>
+    <string name="sync_succesfull">Синхронизировано!</string>
+    <string name="action_disconnect">Разъединение</string>
+    <string name="action_demo">Демо</string>
+    <string name="disc">Разъединен</string>
+    <string name="pressure">Давление:</string>
+    <string name="time">Время</string>
+    <string name="get_data">Принять\nданные</string>
+    <string name="mode">Режим</string>
+    <string name="synchronize">Синхр.</string>
+    <string name="temp_in">Внутри:</string>
+    <string name="temp_out">Снаружи:</string>
+    <string name="hum_in">Влажность:</string>
+    <string name="mm">мм</string>
+    <string name="connected_to">Соединен с </string>
+    <string name="mode1">Режим 1</string>
+    <string name="mode2">Режим 2</string>
+    <string name="mode3">Режим 3</string>
+    <string name="mode4">Режим 4</string>
+    <string name="BTNA">Bluetooth недоступен!</string>
+    <string name="unable_to_connect_device">Не удалось установить соединие</string>
+    <string name="device_connection_was_lost">Соединение было потеряно</string>
+    <string name="setting">Настройки</string>
+    <string name="brightness">Яркость</string>
+    <string name="color">Цвет текста Демо</string>
+    <string-array name="screen_array">
+        <item>Screen 1</item>
+        <item>Screen 2</item>
+        <item>Screen 3</item>
+    </string-array>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+</resources>
